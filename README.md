@@ -1,4 +1,4 @@
-# Algo-Labs
+# ITMO-Algo-Labs
 ## Lab1
 Основы алгоритмов (Решение простых математических задач)<br />
 Basic algorythms (Solving basic math tasks)

@@ -23,3 +23,9 @@ Encoding
 ## Lab9
 Код Грея, графы<br />
 Gray code, graphs
+## Lab10
+Теория графов (DFS, BFS, TOP sort)<br />
+Graph theory (DFS, BFS, TOP sort)
+## Lab11
+Теория графов - обходы (Беллман-Форд, Флойд-Уоршалл, Дейкстра, СНМ)<br />
+Graph theory (Bellman-Ford, Floyd-Warshall, Dijkstra, DSU)
